@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Project specific files & folder
+samples/
+*.csv
+
 # User-specific files
 *.rsuser
 *.suo
