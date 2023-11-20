@@ -10,13 +10,13 @@
 
 Hiermee krijg je een lijst van elementen waaruit het XML-document bestaat.
 
-Gebruik: `xmlstar el [file]`
+Gebruik: `xml el [file]`
 
-Wil je enkel de unieke? Gebruik dan `xmlstar el -u [file]`
+Wil je enkel de unieke? Gebruik dan `xml el -u [file]`
 
-Je kan ook de attributen meevragen: `xmlstar el -a [file]`
+Je kan ook de attributen meevragen: `xml el -a [file]`
 
-En als je dan ook nog de waardes van de attributen wil, dan kan dat via `xmlstar -el -v [file]`
+En als je dan ook nog de waardes van de attributen wil, dan kan dat via `xml -el -v [file]`
 
 ### sel
 
